@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background-color:  #ecf0f3;
-    
+
 }
 
 #container {
@@ -35,8 +35,7 @@ ul li {
     font-size: 18px;
     transition: 0.2s;
     list-style-type: none;
-    
-    
+
 
 
     /* makes the list items unselectable */
@@ -80,7 +79,7 @@ ul li.checked::before {
     transform: rotate(45deg);
     height: 15px;
     width: 7px;
-    
+
 }
 
     /* Style the close button */
